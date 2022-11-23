@@ -32,4 +32,4 @@ for i in range(int(len(data1))):
         data1[i]=key
 print(data1)
 
-new_sort = [1,2,3,4,5,6,7]
+new_sort = [1,2,3,4,5,6,7,9]
